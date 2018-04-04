@@ -1,3 +1,5 @@
+# 翻译 https://juejin.im/post/5a534dfb6fb9a01caa206194
+
 # TensorFlow 官方文档中文版
 
 ![](SOURCE/images/TensorFlow.jpg)   
